@@ -34,8 +34,8 @@
               <td><input id="apikey" name="apikey" type="text"></td>
             </tr>
             <tr>
-              <td><label for="portalurl">URL:</label></td>
-              <td><input id="portalurl" name="portalurl" type="text"></td>
+            <link rel="stylesheet" href="https://js.arcgis.com/4.22/esri/themes/light/main.css">
+            <script src="https://js.arcgis.com/4.22/"></script>
             </tr>
             
           </table>
